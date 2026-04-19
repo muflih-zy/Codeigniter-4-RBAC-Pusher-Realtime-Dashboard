@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
@@ -66,3 +67,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - json (enabled by default - don't turn it off)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+=======
+# Codeigniter-4-RBAC-Pusher-Realtime-Dashboard
+"Advanced Academic System built with CodeIgniter 4, featuring Real-time Notifications via Pusher, RBAC Security, and Tabler Dashboard."
+>>>>>>> 0aaf99dfcdf0af1cd2100103d9449a5e34df7b25
